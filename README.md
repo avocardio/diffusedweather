@@ -5,7 +5,7 @@ Using Keras' Stable Diffusion for generating city images using coordinates and a
 
 ### a) Either use the [colab notebook]()
 
-### b) Or run un locally:
+### b) Or run locally:
 
 #### 1. Clone the repository and navigate to the notebook
 ```bash
