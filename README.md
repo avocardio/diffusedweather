@@ -3,7 +3,7 @@ Using Keras' Stable Diffusion for generating city images using coordinates and a
 
 ![Example](media/desc_light.png)
 
-### a) Either use the [colab notebook]()
+### a) Either use the [colab notebook](https://colab.research.google.com/drive/1irOU5eVUNFiOXXCkwgEBD4pzcdIbzCBs?usp=sharing)
 
 ### b) Or run locally:
 
