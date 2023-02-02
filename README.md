@@ -1,5 +1,6 @@
 # Diffused Live Weather Cam (24/7) 📍
-🏆 Keras Community Prize 2022 winnner 🏆
+🏆 Keras Community Prize 2022 winner 🏆
+\\
 Using Keras' Stable Diffusion for generating city images using coordinates and a live weather API. 
 
 ![Example](media/desc_light.png)
